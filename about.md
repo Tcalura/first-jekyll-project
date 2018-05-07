@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus erat augue, convallis eget urna vitae, tristique tempus massa. Vestibulum suscipit facilisis urna eget dictum. Quisque auctor lorem at leo consequat, vel scelerisque tortor sagittis. Nunc tincidunt nisi ut sodales tempus. Vivamus nunc nisi, posuere eu felis eu, tincidunt egestas arcu. Curabitur fermentum justo mi, vel cursus mi sodales tristique. Etiam aliquet urna id tortor bibendum, vitae accumsan est euismod. Nulla semper felis purus, nec varius ipsum fringilla ut. Vestibulum at tortor ac metus viverra ornare vitae non sem. Proin egestas efficitur nunc, vitae sagittis leo tincidunt a. Cras eget congue odio, sed rhoncus ex.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Vivamus gravida quam et tellus fermentum, id fringilla purus luctus. Nullam a velit vestibulum, feugiat lectus non, fringilla ante. Cras pharetra arcu vel imperdiet molestie. Etiam cursus metus sit amet felis lacinia lacinia. In vulputate enim id aliquam blandit. Nulla tristique tristique dolor et fermentum. Duis finibus felis eget tortor maximus, sed cursus nunc porta. Aenean libero nunc, venenatis eget quam ut, dictum egestas nunc.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Praesent mollis urna sed sapien fringilla imperdiet. Nulla sapien ipsum, tincidunt non nisl id, finibus molestie augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec vitae nisl efficitur, fermentum lectus sit amet, ullamcorper leo. Donec blandit, dui imperdiet feugiat varius, magna sapien interdum dolor, vitae elementum ex velit et arcu. Fusce at augue fringilla, egestas diam aliquet, luctus est. Aenean molestie pretium bibendum. Pellentesque egestas, neque sit amet faucibus finibus, lectus sem iaculis mi, suscipit consectetur lectus justo nec dui. Vivamus eleifend magna ac malesuada auctor. Nunc sit amet fringilla purus. Donec cursus, magna eu sodales mattis, urna mauris tempor erat, ac scelerisque diam elit eget risus. Fusce finibus massa sed tellus luctus convallis. Pellentesque velit justo, volutpat a elit eget, tempus dictum purus.
